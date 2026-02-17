@@ -10,14 +10,17 @@ In Week 2, I learned Python data structures such as lists, tuples, dictionaries,
 ### **Week 3 Summary:**
 
 What is NumPy?
+
 NumPy (Numerical Python) is a Python library used for numerical calculations.
 It provides powerful array objects and mathematical functions to perform fast operations like addition, multiplication, mean, sum, etc. NumPy is mainly used in data science, machine learning, and scientific computing.
 
 What is Pandas?
+
 Pandas is a Python library used for data analysis and manipulation.
 It allows us to work with tables of data using DataFrames and Series. With Pandas, we can clean data, filter rows, handle missing values, and perform grouping and aggregation easily.
 
 Broadcasting:
+
 Broadcasting in NumPy means performing operations on arrays of different shapes or sizes automatically.
 Example: Adding 10 to all elements of an array without writing loops. It makes calculations faster and easier.
 
