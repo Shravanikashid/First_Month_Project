@@ -25,33 +25,51 @@ Example: Adding 10 to all elements of an array without writing loops. It makes c
 DataFrame vs Series
 
 Series:
+
 One-dimensional data structure.
+
 Like a single column.
+
 Example: List of marks or ages.
 
 
 DataFrame:
+
 Two-dimensional data structure.
+
 like a table with rows and columns.
+
 Used to store full datasets.
 
 
 Data Cleaning Methods:
-Data cleaning means preparing data for analysis by fixing errors or removing unwanted data. Common methods:
+
+Data cleaning means preparing data for analysis by fixing errors or removing unwanted data. 
+
+Common methods:
+
 dropna() – remove missing values.
+
 fillna() – replace missing values.
+
 remove duplicates.
+
 correct data types.
+
 filter incorrect data.
 
 
 GroupBy & Aggregation:
+
 GroupBy is used to group data based on a column (like City or Region).
+
 Aggregation means performing calculations on grouped data such as:
+
 mean (average).
+
 sum.
+
 count.
 
 max / min
 
-This helps in finding patterns and insights in data.
