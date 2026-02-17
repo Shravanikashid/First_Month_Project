@@ -76,3 +76,13 @@ Aggregation means performing calculations on grouped data such as:
 
 4.max / min
 
+
+
+
+### ** Week 4 Summary:**
+
+In this project, I worked on visualizing a loan dataset using Matplotlib and Seaborn. I created different types of plots such as scatter plots, histograms, bar charts, boxplots, and heatmaps to understand relationships between features like Income, Loan Amount, Age, Risk Category, and Loan Status.
+
+The visualizations helped me identify patterns such as how income affects loan amount, age distribution of customers, and approval trends. The heatmap was useful to understand correlations between numerical columns.
+
+Through this project, I learned how data visualization makes complex data easy to understand, improves analysis skills, and helps in presenting insights clearly. I also gained hands-on experience in choosing the right chart type and building a simple dashboard for data storytelling.
