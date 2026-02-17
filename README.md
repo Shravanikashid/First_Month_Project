@@ -5,3 +5,53 @@ In Week 1, I learned Python basics including variables, data types, operators, i
 
 ### **Week 2 Summary:**
 In Week 2, I learned Python data structures such as lists, tuples, dictionaries, and sets. I understood how functions, lambda expressions, recursion, and list comprehension help in writing efficient code. I practiced transforming and filtering data using functions and completed a data-cleaning script to remove duplicates and filter values. This week improved my logical thinking and data handling skills in Python.
+
+
+### **Week 3 Summary:**
+
+What is NumPy?
+NumPy (Numerical Python) is a Python library used for numerical calculations.
+It provides powerful array objects and mathematical functions to perform fast operations like addition, multiplication, mean, sum, etc. NumPy is mainly used in data science, machine learning, and scientific computing.
+
+What is Pandas?
+Pandas is a Python library used for data analysis and manipulation.
+It allows us to work with tables of data using DataFrames and Series. With Pandas, we can clean data, filter rows, handle missing values, and perform grouping and aggregation easily.
+
+Broadcasting:
+Broadcasting in NumPy means performing operations on arrays of different shapes or sizes automatically.
+Example: Adding 10 to all elements of an array without writing loops. It makes calculations faster and easier.
+
+
+DataFrame vs Series
+
+Series:
+One-dimensional data structure.
+Like a single column.
+Example: List of marks or ages.
+
+
+DataFrame:
+Two-dimensional data structure.
+like a table with rows and columns.
+Used to store full datasets.
+
+
+Data Cleaning Methods:
+Data cleaning means preparing data for analysis by fixing errors or removing unwanted data. Common methods:
+dropna() – remove missing values.
+fillna() – replace missing values.
+remove duplicates.
+correct data types.
+filter incorrect data.
+
+
+GroupBy & Aggregation:
+GroupBy is used to group data based on a column (like City or Region).
+Aggregation means performing calculations on grouped data such as:
+mean (average).
+sum.
+count.
+
+max / min
+
+This helps in finding patterns and insights in data.
