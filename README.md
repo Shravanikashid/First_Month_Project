@@ -79,7 +79,7 @@ Aggregation means performing calculations on grouped data such as:
 
 
 
-### ** Week 4 Summary:**
+### **Week 4 Summary:**
 
 In this project, I worked on visualizing a loan dataset using Matplotlib and Seaborn. I created different types of plots such as scatter plots, histograms, bar charts, boxplots, and heatmaps to understand relationships between features like Income, Loan Amount, Age, Risk Category, and Loan Status.
 
